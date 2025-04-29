@@ -1,6 +1,16 @@
 # 📊 Pizza Sales Dashboard - Detailed Insights
 This dashboard presents a comprehensive analysis of pizza sales, helping to uncover performance trends, customer behavior, and sales drivers. Below are the key insights:
 
+![Screenshot 2025-04-29 134539](https://github.com/user-attachments/assets/f3389f24-12ba-4549-8f17-4fad157d1e9d)
+
+![Screenshot 2025-04-29 135827](https://github.com/user-attachments/assets/d1c3276c-4f54-4a29-9d30-6c7a9b4bba4c)
+
+![Screenshot 2025-04-29 135745](https://github.com/user-attachments/assets/136e04a0-0be5-444b-9171-7ad427e48478)
+
+![Screenshot 2025-04-29 135756](https://github.com/user-attachments/assets/2c44c866-a622-44e1-95e6-1a99817f02b0)
+
+![Screenshot 2025-04-29 135827](https://github.com/user-attachments/assets/ea759bbe-71c2-4580-bca9-afea5e3398f1)
+
 ## 🔶 Overall Performance
 Total Revenue: $817,860
 
